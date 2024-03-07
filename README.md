@@ -5,13 +5,15 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **REACT and REDUX projects**
+- My portfolio **https://danstack.netlify.app/**
 
-- 🌱 I’m currently learning **NEXT.js, REACT and REDUX**
+- 🔭 I’m currently working on **MERN,Svelte and Next.js projects**
+
+- 🌱 I’m currently learning **ReactNative,Rust**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 💬 Ask me about **JAVASCRIPT,REACT,REDUX ....**
+- 💬 Ask me about **JAVASCRIPT,REACT,REDUX, MERN ....**
 
 - 📫 How to reach me **endaylaludaniel@gmail.com, https://t.me/Danielendaylalu**
 
