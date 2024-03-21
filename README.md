@@ -1,5 +1,5 @@
 <p align="center">
- <img align="center" width="400px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhZjdhOTFiNGI3MGIxZGI5NDY4ODdlZTg4NGZjZTE2MmFkMjAyNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center"/>                            
+ <img align="center" width="400px" height="250px" src="https://github.com/danielendaylalu1/danielendaylalu1/blob/main/icon-removebg-preview.png" align="center"/>                            
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
