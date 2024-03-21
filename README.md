@@ -1,5 +1,5 @@
 <p align="center">
- <img align="center" width="auto" height="auto" src="https://github.com/danielendaylalu1/danielendaylalu1/blob/main/icon-removebg-preview.png" align="center"/>                            
+ <img align="center" width="90%" height="auto" src="https://github.com/danielendaylalu1/danielendaylalu1/blob/main/icon-removebg-preview.png" align="center"/>                            
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
