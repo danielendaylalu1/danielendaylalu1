@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JAVASCRIPT,REACT,REDUX, MERN ....**
 
-- 📫 How to reach me **endaylaludaniel@gmail.com, https://t.me/Danielendaylalu**
+- 📫 How to reach me **endaylaludaniel@gmail.com, https://t.me/danielendaylalu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
